@@ -1,0 +1,10 @@
+section {
+    padding: 100px;
+    zoom: 200%;
+}
+
+.highlight{
+    background-color: #007bff;
+    font-weight: bold;
+    color: white;
+}
